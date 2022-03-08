@@ -64,6 +64,7 @@ const Home = ({navigation}) => {
         {/* discover */}
         <View style={styles.discoverWrapper}>
           <Text style={styles.discoverTittle}>Discover</Text>
+          <Text style={styles.discoverTittle}>Pull request test</Text>
           <View style={styles.discoverCategoriesWrapper}>
             <Text style={[styles.discoverCategoryText, {color: colors.orange}]}>
               All
